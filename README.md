@@ -1,17 +1,19 @@
-# SkiMo – Secure Game Asset Platform (Demo Only)
-
-SkiMo is a platform for game developers that combines AI-driven asset generation with built-in virus detection for safe and fast development workflows.
-
-This repository contains a short promotional video showcasing the concept and interface.  
-The full code is private and available upon request for professional review.
-
-## 🎥 Demo
-https://www.instagram.com/skimohub/
-
-## About
-Built as part of my bachelor project during my exchange at Epitech Paris.  
-Focus: game security, AI tooling, mod validation, and safe workflows.
-
-Contact me for collaboration or further details.
-# SkiMo
+# SkiMo  
 Secure Game Asset Platform (Demo Only)
+SkiMo is a dual platform built for developers and the gaming community.
+
+**SkiMo Genesis™**  
+AI-powered asset generator for developers.  
+Currently generates stylized handgun models – future updates will include terrain, props, and UI assets ready for Unity, Unreal and Godot.
+
+**SkiMo Shield™**  
+Security tool for modders and traders.  
+Scans zipped mods and skins for malware (YARA/ClamAV) and verifies CS:GO skin authenticity via Steam API. Includes secure middleman model for safe trading.
+
+Originally developed as my bachelor project at Epitech Paris, SkiMo explores the intersection of AI creativity and file safety in modern game workflows.
+
+🎥 Demo  
+[instagram.com/skimohub](https://www.instagram.com/skimohub/)
+
+*Code is private – available upon request for academic or professional review.*  
+Contact: [Sandrakjoergensen@hotmail.com]
