@@ -11,7 +11,7 @@ Scans zipped mods and skins for malware (YARA/ClamAV) and verifies CS:GO skin au
 
 Originally developed as my bachelor project at Epitech Paris, SkiMo explores the intersection of AI creativity and file safety in modern game workflows.
 
-🎥 Demo  
+🎥 Demo   (Under progression, changes are in making)
 [instagram.com/skimohub](https://www.instagram.com/skimohub/)
 
 *Code is private – available upon request for academic or professional review.*  
