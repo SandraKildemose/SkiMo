@@ -1,5 +1,4 @@
 # SkiMo  
-Secure Game Asset Platform (Demo Only)
 SkiMo is a dual platform built for developers and the gaming community.
 
 **SkiMo Genesis™**  
